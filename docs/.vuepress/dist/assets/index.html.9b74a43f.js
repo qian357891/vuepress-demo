@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"vuepress-demo","slug":"vuepress-demo","link":"#vuepress-demo","children":[]}],"git":{},"filePathRelative":"README.md"}');export{e as data};
