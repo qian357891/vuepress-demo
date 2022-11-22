@@ -4,8 +4,6 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import { copyCodePlugin } from "vuepress-plugin-copy-code2";
 
 export default defineUserConfig({
-  // @ts-ignore
-  base: "./",
   lang: "zh-CN",
   title: "Kevin Qian", // 显示在左上角的网页名称以及首页在浏览器标签显示的title名称
   description: "Kevin Qian blog", // meta 中的描述文字，用于SEO
